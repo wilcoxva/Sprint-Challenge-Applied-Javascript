@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The Document Object Model (DOM) is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content.
+
 2. What is an event?
+
+An event is an action that occurs as a result of the user or another source, such as a mouse being clicked, or a key being pressed.
 
 3. What is an event listener?
 
+An event listener is a procedure or function in a computer program that waits for an event to occur. 
+
 4. Why would we convert a NodeList into an Array?
 
+NodeLists are array-like but don't feature many of the methods provided by the Array, like forEach, map, filter, etc. 
+
 5. What is a component?
+
+A component is an identifiable part of a larger program.
 
 ### Git Set up
 
